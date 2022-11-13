@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="s1">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>My test page</title>
+  </head>
+  <style>
+  	@font-face{
+    	font-family:"Open SansRegular";
+        src:url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap");
+        font-display:swap;	}
+        
+	body{
+    background-color:green;
+    }
+    
+    span{
+    color:purple;    
+    }
+    
+    div{
+    baground-color:brown;
+    border:red20px;
+    }
+    
+    h1{
+        
+    font-family:Open Sans Regularserif;
+   border-style:inset;
+       border-color:red;
+       background-color:brown;
+    }
+      
+   </style>
+   <body> 
+     
+   
+   
+<div>
+<h1>Žiuuuuuuuuuv</h1>
+</div>
+<svg width="500"height="100">
+	<rect width="500"height="100" style="fill:rgb(0,255,0);stroke-width:13;stroke:rgb(0,0,255)"/>
+    <text fill="#ff000" font-size="45" font-family="Arial" x="80" y="60"> Klemen Jeršin </text>
+  </svg>
+  <br>
+    <iframe src="https://www.youtube.com/embed/s2HGjU0ubgs"
+    frameborder="0" allow="accelerometer;autoplay; clipboard-write;encrypted-media,gyroscope;picture-in-picture" allowfullscreen></iframe>
+    
+
+  </body>
+</html>
